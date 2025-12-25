@@ -24,8 +24,8 @@
   "categories": ["health", "lifestyle", "medical"],
   "screenshots": [
     {
-      "src": "./screenshot.png",
-      "sizes": "540x720",
+      "src": "./ss1.png",
+      "sizes": "540x1720",
       "type": "image/png"
     }
   ]
