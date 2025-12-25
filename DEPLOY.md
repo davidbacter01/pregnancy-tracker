@@ -14,10 +14,9 @@ You have two options:
 
 #### Option A: Upload via GitHub Web Interface (Easiest)
 1. On your new repo page, click "uploading an existing file"
-2. Drag all 8 files into the upload area:
+2. Drag all 7 files into the upload area:
    - `.gitignore`
    - `index.html`
-   - `pregnancy-tracker.jsx`
    - `service-worker.js`
    - `manifest.json`
    - `icon-192.png`
@@ -85,7 +84,8 @@ If you want a custom domain like `pregnancy.yourdomain.com`:
 - Check GitHub Pages is enabled in Settings → Pages
 - Wait a few minutes after enabling
 - Check browser console (F12) for errors
-- Ensure all 8 files were uploaded
+- Ensure all 7 files were uploaded
+- Try hard refresh (Ctrl+Shift+R or Cmd+Shift+R)
 
 **PWA not installing?**
 - Make sure you're using HTTPS (GitHub Pages uses HTTPS automatically)

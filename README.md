@@ -41,8 +41,7 @@ The app features a distinctive warm, organic aesthetic:
 ### Step 2: Prepare Your Files
 
 All necessary files are included:
-- `index.html` - Main HTML file
-- `pregnancy-tracker.jsx` - React application code
+- `index.html` - Complete app (HTML + React code inline)
 - `service-worker.js` - PWA offline functionality
 - `manifest.json` - PWA configuration
 - `icon-192.png` & `icon-512.png` - App icons
@@ -149,11 +148,11 @@ Your app will be available at:
 ## 🔧 Technical Stack
 
 - **React 18** - UI framework
-- **Chakra UI** - Component library with custom theme
 - **Recharts** - Data visualization
 - **IndexedDB** - Local data storage
 - **Service Worker** - Offline functionality
 - **PWA Manifest** - Installable app capabilities
+- **Inline styling** - No external CSS dependencies
 
 ## 🌐 Browser Support
 
