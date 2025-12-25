@@ -1,12 +1,11 @@
-const CACHE_NAME = 'pregnancy-tracker-v2';
+const CACHE_NAME = 'pregnancy-tracker-v3';
 const urlsToCache = [
   './',
   './index.html',
   './manifest.json',
   'https://unpkg.com/react@18.2.0/umd/react.production.min.js',
   'https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js',
-  'https://unpkg.com/prop-types@15.8.1/prop-types.min.js',
-  'https://unpkg.com/recharts@2.5.0/dist/Recharts.js',
+  'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js',
   'https://unpkg.com/@babel/standalone@7.23.5/babel.min.js',
   'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap',
 ];

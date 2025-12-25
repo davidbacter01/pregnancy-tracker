@@ -148,7 +148,7 @@ Your app will be available at:
 ## 🔧 Technical Stack
 
 - **React 18** - UI framework
-- **Recharts** - Data visualization
+- **Chart.js** - Beautiful, simple data visualization
 - **IndexedDB** - Local data storage
 - **Service Worker** - Offline functionality
 - **PWA Manifest** - Installable app capabilities
